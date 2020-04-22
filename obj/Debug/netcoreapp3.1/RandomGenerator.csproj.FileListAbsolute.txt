@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\School\NJIT\Y3S2\IS 421\RandomGenerator\RandomGenerator\RandomGenerator\bin\Debug\netcoreapp3.1\RandomGenerator.exe
+C:\Users\chris\Documents\School\NJIT\Y3S2\IS 421\RandomGenerator\RandomGenerator\RandomGenerator\bin\Debug\netcoreapp3.1\RandomGenerator.deps.json
+C:\Users\chris\Documents\School\NJIT\Y3S2\IS 421\RandomGenerator\RandomGenerator\RandomGenerator\bin\Debug\netcoreapp3.1\RandomGenerator.runtimeconfig.json
+C:\Users\chris\Documents\School\NJIT\Y3S2\IS 421\RandomGenerator\RandomGenerator\RandomGenerator\bin\Debug\netcoreapp3.1\RandomGenerator.runtimeconfig.dev.json
+C:\Users\chris\Documents\School\NJIT\Y3S2\IS 421\RandomGenerator\RandomGenerator\RandomGenerator\bin\Debug\netcoreapp3.1\RandomGenerator.dll
+C:\Users\chris\Documents\School\NJIT\Y3S2\IS 421\RandomGenerator\RandomGenerator\RandomGenerator\bin\Debug\netcoreapp3.1\RandomGenerator.pdb
+C:\Users\chris\Documents\School\NJIT\Y3S2\IS 421\RandomGenerator\RandomGenerator\RandomGenerator\obj\Debug\netcoreapp3.1\RandomGenerator.csprojAssemblyReference.cache
+C:\Users\chris\Documents\School\NJIT\Y3S2\IS 421\RandomGenerator\RandomGenerator\RandomGenerator\obj\Debug\netcoreapp3.1\RandomGenerator.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\School\NJIT\Y3S2\IS 421\RandomGenerator\RandomGenerator\RandomGenerator\obj\Debug\netcoreapp3.1\RandomGenerator.AssemblyInfo.cs
+C:\Users\chris\Documents\School\NJIT\Y3S2\IS 421\RandomGenerator\RandomGenerator\RandomGenerator\obj\Debug\netcoreapp3.1\RandomGenerator.dll
+C:\Users\chris\Documents\School\NJIT\Y3S2\IS 421\RandomGenerator\RandomGenerator\RandomGenerator\obj\Debug\netcoreapp3.1\RandomGenerator.pdb
+C:\Users\chris\Documents\School\NJIT\Y3S2\IS 421\RandomGenerator\RandomGenerator\RandomGenerator\obj\Debug\netcoreapp3.1\RandomGenerator.genruntimeconfig.cache
